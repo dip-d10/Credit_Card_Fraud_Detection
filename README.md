@@ -63,5 +63,4 @@ The final tuned XGBoost model provided excellent performance for fraud detection
 
 These metrics indicate that the model is highly effective at distinguishing between legitimate and fraudulent transactions.
 
-## Project Structure
 
